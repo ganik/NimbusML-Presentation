@@ -1,7 +1,7 @@
 ## Try with Azure Notebooks - free Jupyter based notebooks in the Azure cloud
 
-1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](http://aka.ms/nimbusml/clone-aznotebooks)
-[Import sample notebooks ](http://aka.ms/nimbusml/clone-aznotebooks) into Azure Notebooks.
+1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ganik/NimbusML-Presentation)
+[Import sample notebooks ](https://notebooks.azure.com/import/gh/ganik/NimbusML-Presentation) into Azure Notebooks.
 1. Run Install.ipynb.
 1. Open one of the sample notebooks in Part1, Part2 or Part3
     
