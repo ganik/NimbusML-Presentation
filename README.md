@@ -2,7 +2,8 @@
 
 1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](http://aka.ms/nimbusml/clone-aznotebooks)
 [Import sample notebooks ](http://aka.ms/nimbusml/clone-aznotebooks) into Azure Notebooks.
-1. Open one of the sample notebooks.
+1. Run Install.ipynb.
+1. Open one of the sample notebooks in Part1, Part2 or Part3
     
     **Make sure the Azure Notebook kernel is set to `Python 3.6`** when you open a notebook.  
     
