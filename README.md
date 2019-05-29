@@ -6,7 +6,7 @@
     
     **Make sure the Azure Notebook kernel is set to `Python 3.6`** when you open a notebook.  
     
-    ![set kernel to Python 3.6](media/python36.png)
+    ![set kernel to Python 3.6](Part1/data/python36.png)
 
 ## Tutorial 1: "From scikit to NimbusML"  
 ### Tweak existing scikit-learn scripts to use NimbusML components. To start pls run "Part1/Intro.ipynb"  
