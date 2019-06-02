@@ -1,19 +1,13 @@
-# Instructions to install Tutorial files
-1. Navigate to  http://aka.ms/nimbusml-mlads2019 
+## Try with Azure Notebooks - free Jupyter based notebooks in the Azure cloud
 
-2. Click “Clone” button as in pic : <img align="middle" src="Part1/data/step1.png" height=200 />
-
-3. Follow wizard to create a free signin/signup using any Microsoft account (corporate, Outlook , Xbox etc.) 
-
-4. Click on "Install.ipynb" :  <img align="middle" src="Part1/data/step2.png" height=200 />
-
-5. This should start your notebook, check its Python 3.6 and run all cells. Installation might take few minutes. 
-
-6. Issues? Raise your hand 
-
-7. While installation running pls go to folder Part1/ and start intro tutorial
- 
-# Description of Tutorials 
+1. [![Azure Notebooks](https://notebooks.azure.com/launch.png)](https://notebooks.azure.com/import/gh/ganik/NimbusML-Presentation)
+[Import sample notebooks ](https://notebooks.azure.com/import/gh/ganik/NimbusML-Presentation) into Azure Notebooks.
+1. Run Install.ipynb.
+1. Open one of the sample notebooks in Part1, Part2 or Part3
+    
+    **Make sure the Azure Notebook kernel is set to `Python 3.6`** when you open a notebook.  
+    
+    ![set kernel to Python 3.6](Part1/data/python36.png)
 
 ## Tutorial 1: "From scikit to NimbusML"  
 ### Tweak existing scikit-learn scripts to use NimbusML components. To start pls run "Part1/Intro.ipynb"  
